@@ -5,5 +5,6 @@
 
 - 9V batteriet forbindes direkte til Arduinoen
 - Arduinos ben 8 og 9 bruges af encoderen (tacoen)
+- Nedenstående google link virker kun hvis du er logget ind
 
 [Link til public folder, hvor vi kan dele billeder og andre filer](https://drive.google.com/drive/folders/1WvcwFiWqbsszOmfOXBDGAPdLyWbsnYaB?usp=sharing)
