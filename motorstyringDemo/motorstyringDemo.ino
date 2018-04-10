@@ -3,8 +3,8 @@
 */
  
 // Left motor
-#define MOTOR_L_PWM 11 // PIN D11 --> Motor B Input A --> MOTOR B+ / PWM Speed (IA2) GUL
-#define MOTOR_L_DIR 13 // PIN D13 --> Motor B Input B --> MOTOR B  / Direction (IB2) ORANGE
+#define MOTOR_L_PWM 3 // PIN D11 --> Motor B Input A --> MOTOR B+ / PWM Speed (IA2) GUL
+#define MOTOR_L_DIR 2 // PIN D13 --> Motor B Input B --> MOTOR B  / Direction (IB2) ORANGE
 // Right motor
 #define MOTOR_R_PWM 10 // PIN D10 --> Motor B Input A --> MOTOR B+ / PWM Speed (IA1) GRÅ
 #define MOTOR_R_DIR 12 // PIN D12 --> Motor B Input B --> MOTOR B  / Direction (IB1) HVID
